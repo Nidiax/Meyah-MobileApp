@@ -13,4 +13,16 @@ Integrantes:
     
  Escuela: Universidad Tecnológica Metropolitana
  
+ Materia: Desarrollo Móvil Multiplataforma
+ 
+ Grado y Grupo: 5° A
+ 
+ Carrera: Tecnologías de la Información y la Comunicación
+ 
+ Tecnologías a usar:
+   - Flutter
+   - Visual Studio
+ 
+ 
+ 
  
